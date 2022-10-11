@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T12:37:52 IST" name="Suite" finished-at="2022-10-10T12:42:10 IST" duration-ms="258912">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T12:37:52 IST" name="Test" finished-at="2022-10-10T12:42:10 IST" duration-ms="258912">
+      <class name="com.Amazon.TestClasses.TC02_VerifySearchTextBox">
+        <test-method is-config="true" signature="SetUpMethod(java.lang.String)[pri:0, instance:com.Amazon.TestClasses.TC02_VerifySearchTextBox@13fd2ccd]" started-at="2022-10-10T12:39:17 IST" name="SetUpMethod" finished-at="2022-10-10T12:39:58 IST" duration-ms="40505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method signature="VerifySearchTextBox()[pri:0, instance:com.Amazon.TestClasses.TC02_VerifySearchTextBox@13fd2ccd]" started-at="2022-10-10T12:39:58 IST" name="VerifySearchTextBox" finished-at="2022-10-10T12:40:11 IST" duration-ms="12889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchTextBox -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.Amazon.TestClasses.TC02_VerifySearchTextBox@13fd2ccd]" started-at="2022-10-10T12:40:11 IST" name="tearDownMethod" finished-at="2022-10-10T12:40:19 IST" duration-ms="8326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.Amazon.TestClasses.TC02_VerifySearchTextBox -->
+      <class name="com.Amazon.TestClasses.TC04_VerifySwitchToWindowFunctionality">
+        <test-method is-config="true" signature="SetUpMethod(java.lang.String)[pri:0, instance:com.Amazon.TestClasses.TC04_VerifySwitchToWindowFunctionality@506ae4d4]" started-at="2022-10-10T12:40:49 IST" name="SetUpMethod" finished-at="2022-10-10T12:41:32 IST" duration-ms="42672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method signature="VerifySwitchToWindowFunctionality()[pri:0, instance:com.Amazon.TestClasses.TC04_VerifySwitchToWindowFunctionality@506ae4d4]" started-at="2022-10-10T12:41:32 IST" name="VerifySwitchToWindowFunctionality" finished-at="2022-10-10T12:42:10 IST" duration-ms="38563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySwitchToWindowFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.Amazon.TestClasses.TC04_VerifySwitchToWindowFunctionality@506ae4d4]" started-at="2022-10-10T12:42:10 IST" name="tearDownMethod" finished-at="2022-10-10T12:42:10 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.Amazon.TestClasses.TC04_VerifySwitchToWindowFunctionality -->
+      <class name="com.Amazon.TestClasses.TC01_VerifyLoginFunctionality">
+        <test-method is-config="true" signature="SetUpMethod(java.lang.String)[pri:0, instance:com.Amazon.TestClasses.TC01_VerifyLoginFunctionality@37d4349f]" started-at="2022-10-10T12:37:52 IST" name="SetUpMethod" finished-at="2022-10-10T12:39:09 IST" duration-ms="77541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method signature="VerifyLoginFunctionality()[pri:0, instance:com.Amazon.TestClasses.TC01_VerifyLoginFunctionality@37d4349f]" started-at="2022-10-10T12:39:09 IST" name="VerifyLoginFunctionality" finished-at="2022-10-10T12:39:11 IST" duration-ms="2014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.Amazon.TestClasses.TC01_VerifyLoginFunctionality@37d4349f]" started-at="2022-10-10T12:39:11 IST" name="tearDownMethod" finished-at="2022-10-10T12:39:17 IST" duration-ms="5934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.Amazon.TestClasses.TC01_VerifyLoginFunctionality -->
+      <class name="com.Amazon.TestClasses.TC03_VerifyMobileFunctionty">
+        <test-method is-config="true" signature="SetUpMethod(java.lang.String)[pri:0, instance:com.Amazon.TestClasses.TC03_VerifyMobileFunctionty@b9b00e0]" started-at="2022-10-10T12:40:19 IST" name="SetUpMethod" finished-at="2022-10-10T12:40:38 IST" duration-ms="18724" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method signature="VerifyMobileFunctionty()[pri:0, instance:com.Amazon.TestClasses.TC03_VerifyMobileFunctionty@b9b00e0]" started-at="2022-10-10T12:40:38 IST" name="VerifyMobileFunctionty" finished-at="2022-10-10T12:40:49 IST" duration-ms="11400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMobileFunctionty -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.Amazon.TestClasses.TC03_VerifyMobileFunctionty@b9b00e0]" started-at="2022-10-10T12:40:49 IST" name="tearDownMethod" finished-at="2022-10-10T12:40:49 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.Amazon.TestClasses.TC03_VerifyMobileFunctionty -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

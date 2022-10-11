@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.Amazon.TestClasses.TC03_VerifyMobileFunctionty">
+        <methods>
+          <include name="SetUpMethod"/>
+          <include name="tearDownMethod"/>
+          <include name="VerifyMobileFunctionty"/>
+        </methods>
+      </class> <!-- com.Amazon.TestClasses.TC03_VerifyMobileFunctionty -->
+      <class name="com.Amazon.TestClasses.TC01_VerifyLoginFunctionality">
+        <methods>
+          <include name="SetUpMethod"/>
+          <include name="tearDownMethod"/>
+          <include name="VerifyLoginFunctionality"/>
+        </methods>
+      </class> <!-- com.Amazon.TestClasses.TC01_VerifyLoginFunctionality -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

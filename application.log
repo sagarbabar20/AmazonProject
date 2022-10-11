@@ -1,0 +1,56 @@
+2022-10-10 12:13:08,532  INFO [main] AmazonProject2:37 - browser is opend
+2022-10-10 12:13:09,010  INFO [main] AmazonProject2:39 - browser is maximized
+2022-10-10 12:13:27,115  INFO [main] AmazonProject2:41 - url is opened
+2022-10-10 12:13:46,742  INFO [main] AmazonProject2:47 - Clicked on hello login tab
+2022-10-10 12:13:55,172  INFO [main] AmazonProject2:50 - user name is entered
+2022-10-10 12:13:58,049  INFO [main] AmazonProject2:53 - Clicked on continue button
+2022-10-10 12:13:58,215  INFO [main] AmazonProject2:56 - Clicked on heelo login tab
+2022-10-10 12:13:58,736  INFO [main] AmazonProject2:59 - Clicked on signin button
+2022-10-10 12:14:05,412  INFO [main] AmazonProject2:22 - Apply the validation
+2022-10-10 12:14:16,129  INFO [main] AmazonProject2:66 - browser is closed
+2022-10-10 12:38:36,373  INFO [main] AmazonProject2:37 - browser is opend
+2022-10-10 12:38:36,873  INFO [main] AmazonProject2:39 - browser is maximized
+2022-10-10 12:38:50,156  INFO [main] AmazonProject2:41 - url is opened
+2022-10-10 12:39:02,945  INFO [main] AmazonProject2:47 - Clicked on hello login tab
+2022-10-10 12:39:06,456  INFO [main] AmazonProject2:50 - user name is entered
+2022-10-10 12:39:09,053  INFO [main] AmazonProject2:53 - Clicked on continue button
+2022-10-10 12:39:09,446  INFO [main] AmazonProject2:56 - Clicked on heelo login tab
+2022-10-10 12:39:09,664  INFO [main] AmazonProject2:59 - Clicked on signin button
+2022-10-10 12:39:11,681  INFO [main] AmazonProject2:22 - Apply the validation
+2022-10-10 12:39:17,654  INFO [main] AmazonProject2:66 - browser is closed
+2022-10-10 12:39:31,701  INFO [main] AmazonProject2:37 - browser is opend
+2022-10-10 12:39:32,526  INFO [main] AmazonProject2:39 - browser is maximized
+2022-10-10 12:39:47,591  INFO [main] AmazonProject2:41 - url is opened
+2022-10-10 12:39:51,922  INFO [main] AmazonProject2:47 - Clicked on hello login tab
+2022-10-10 12:39:53,924  INFO [main] AmazonProject2:50 - user name is entered
+2022-10-10 12:39:57,704  INFO [main] AmazonProject2:53 - Clicked on continue button
+2022-10-10 12:39:57,797  INFO [main] AmazonProject2:56 - Clicked on heelo login tab
+2022-10-10 12:39:58,162  INFO [main] AmazonProject2:59 - Clicked on signin button
+2022-10-10 12:40:03,967  INFO [main] AmazonProject2:21 - mobile is entered in search box
+2022-10-10 12:40:05,106  INFO [main] AmazonProject2:24 - mobile name is entered
+2022-10-10 12:40:11,051  INFO [main] AmazonProject2:29 - clicked on search button
+2022-10-10 12:40:19,381  INFO [main] AmazonProject2:66 - browser is closed
+2022-10-10 12:40:28,690  INFO [main] AmazonProject2:37 - browser is opend
+2022-10-10 12:40:28,827  INFO [main] AmazonProject2:39 - browser is maximized
+2022-10-10 12:40:32,195  INFO [main] AmazonProject2:41 - url is opened
+2022-10-10 12:40:35,398  INFO [main] AmazonProject2:47 - Clicked on hello login tab
+2022-10-10 12:40:36,090  INFO [main] AmazonProject2:50 - user name is entered
+2022-10-10 12:40:37,744  INFO [main] AmazonProject2:53 - Clicked on continue button
+2022-10-10 12:40:37,921  INFO [main] AmazonProject2:56 - Clicked on heelo login tab
+2022-10-10 12:40:38,107  INFO [main] AmazonProject2:59 - Clicked on signin button
+2022-10-10 12:40:41,037  INFO [main] AmazonProject2:23 - mobile name is entered
+2022-10-10 12:40:45,197  INFO [main] AmazonProject2:26 - clicked on search button
+2022-10-10 12:40:47,411  INFO [main] AmazonProject2:30 - clicked on samsung mobile
+2022-10-10 12:40:49,651  INFO [main] AmazonProject2:66 - browser is closed
+2022-10-10 12:41:04,032  INFO [main] AmazonProject2:37 - browser is opend
+2022-10-10 12:41:04,163  INFO [main] AmazonProject2:39 - browser is maximized
+2022-10-10 12:41:08,806  INFO [main] AmazonProject2:41 - url is opened
+2022-10-10 12:41:22,472  INFO [main] AmazonProject2:47 - Clicked on hello login tab
+2022-10-10 12:41:29,024  INFO [main] AmazonProject2:50 - user name is entered
+2022-10-10 12:41:31,543  INFO [main] AmazonProject2:53 - Clicked on continue button
+2022-10-10 12:41:31,775  INFO [main] AmazonProject2:56 - Clicked on heelo login tab
+2022-10-10 12:41:32,325  INFO [main] AmazonProject2:59 - Clicked on signin button
+2022-10-10 12:41:51,463  INFO [main] AmazonProject2:32 - clicked on search button
+2022-10-10 12:41:52,159  INFO [main] AmazonProject2:36 - clicked on samsung mobile 
+2022-10-10 12:42:09,607  INFO [main] AmazonProject2:45 - clicked on add to cart 
+2022-10-10 12:42:10,977  INFO [main] AmazonProject2:66 - browser is closed
